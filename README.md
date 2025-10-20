@@ -27,6 +27,6 @@
 
   I would say that implementing the buttons and fields for item information was the easiest part of the application for me. I can see similarities between Android development and frontend development using HTML and CSS. Using those similarities, I was able to tie in the same logic, like how buttons use onClick to execute a Java function and like how input fields use the DOM to read and accept inputs from the user. Even stylizing these components felt fairly straightforward because of the way it behaves like Tailwin with defining each feature and detail of a component within the component itself instead of a separate CSS file.
 
-
+___
 
 - Proceeding into the future, I would like to reuse the code for this application. I have a website built for a food truck where the client is able to use CRUD on an admin page to update the display of menu items on the main webpage. I would like to expand on that by connecting this application to the website to allow the client to update the display from either the website or the mobile application. I will have to revise the design and some of the work such as the implementation of the database, but most of this will remain the same.
